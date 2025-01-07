@@ -15,6 +15,7 @@ public class OddOrEven {
             System.out.println("Odd");
 
 
+        
     }
 
 }
