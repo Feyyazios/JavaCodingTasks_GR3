@@ -4,12 +4,12 @@ public class OddOrEven {
 
     public static void main(String[] args) {
 
-        OddOrEven(5);
+        OddOrEvenMethod(5);
 
 
     }
 
-    public static void OddOrEven(int num) {
+    public static void OddOrEvenMethod(int num) {
         if (num % 2 == 0) {
             System.out.println("Even");
         } else
