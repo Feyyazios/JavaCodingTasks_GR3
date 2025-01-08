@@ -6,7 +6,6 @@ public class OddOrEven {
 
         OddOrEvenMethod(5);
 
-
     }
 
     public static void OddOrEvenMethod(int num) {
