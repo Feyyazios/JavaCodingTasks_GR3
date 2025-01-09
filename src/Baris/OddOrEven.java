@@ -11,6 +11,5 @@ public class OddOrEven {
             System.out.println("Even");
         } else
             System.out.println("Odd");
-
     }
     }
