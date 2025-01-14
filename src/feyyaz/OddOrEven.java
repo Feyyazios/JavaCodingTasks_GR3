@@ -13,13 +13,12 @@ public class OddOrEven {
      */
     public static void main(String[] args) {
 
-    }
+    int num = 5;
 
-    public static void oddOrEven(int num) {
-        if (num % 2 == 0) {
-            System.out.println("Even");
-        } else {
-            System.out.println("Odd");
-        }
+    if (num % 2 == 0) {
+        System.out.println("Even");
+    }else{
+        System.out.println("Odd");
+    }
     }
 }
