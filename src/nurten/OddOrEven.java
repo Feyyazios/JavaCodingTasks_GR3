@@ -1,17 +1,16 @@
-
-package zack;
+package nurten;
 
 public class OddOrEven {
-
     public static void main(String[] args) {
 
+        int number = 5;
 
-    }
-    public static void oddOrEven(int num) {
-        if ( num % 2 == 0 ) {
+        if(number % 2 == 0){
             System.out.println("Even");
-        }else{
+        } else {
             System.out.println("Odd");
         }
+
+
     }
 }
