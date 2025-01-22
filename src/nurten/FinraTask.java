@@ -1,7 +1,7 @@
 package nurten;
 
 public class FinraTask {
-
+    // codes from Nurten
     /*
 Write a function that prints out the numbers from 1 to 30
 but for numbers that are a multiple of 3,
