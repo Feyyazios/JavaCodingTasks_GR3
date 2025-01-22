@@ -20,7 +20,6 @@ but for numbers that are a multiple of 3,
 
     // printFinra method : Prints numbers from 1 to 30, applying specific rules.
     public static void printFinra() {
-
         // loop block of code inside it runs 30 times (once for each number from 1 to 30).
         for (int i = 1; i <= 30; i++) {
             // condition: if the number is divisible by both 3 and 5.
