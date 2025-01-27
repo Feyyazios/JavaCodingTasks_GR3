@@ -32,7 +32,7 @@ Swap two integer variable values (including both ways; with using a third variab
 
         System.out.println("Before swapping c =  " + c + ", d = " + d);
 
-        c = c + d; // c becomes 11
+        c = c + d; // c becomes 15
         d = c - d; // d becomes 5
         c = c - d;  // c becomes 10
 
