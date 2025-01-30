@@ -4,7 +4,7 @@ public class ReverseNegativeNumber {
 
         public static void main(String[] args) {
             // Calling the custom method and printing it
-            System.out.println(reversedNegativeNumber(-23));
+            System.out.println(reversedNegativeNumber(-35));
         }
 
         // A custom method that takes a negative number, reverses its digits and keeps it negative
