@@ -13,8 +13,10 @@ public class ReverseNegativeNumbers {
     /**
      * First we need to create a method to reverse negative number values,
      * Then we need to create our main method to take wanted result from  the given value,
-     * So we need to create a condition just to deal with negative numbrers
-     *
+     * So we need to create a condition just to deal with negative numbers
+     * To switch integer value of digits for two digits numbers we must  divide the number by 10
+     * Then we must concatenate two divided values
+     * So here is the solution code...
      */
 
 
