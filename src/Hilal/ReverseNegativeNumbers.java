@@ -13,6 +13,7 @@ input: -35  output: -53
 
     public class ReverseNegativeNumber {
 
+
         public static int reverseNegative(int num) {
             // Check if the input is negative; if not, throw an exception
             if (num >= 0) {
