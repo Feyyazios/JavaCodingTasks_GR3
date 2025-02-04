@@ -29,6 +29,7 @@ public class ReverseNegativeNumbers {
             // If the number is positive or zero, return it unchanged
             if (num >= 0) {
                 return num;
+
             }
 
             int reversed = 0;
