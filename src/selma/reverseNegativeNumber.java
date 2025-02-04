@@ -1,6 +1,13 @@
 package selma;
 
 public class reverseNegativeNumber {
+    /**
+     * Reverse Negative Number
+     *     Write a return method that can reverse digits
+     *     of a negative number and return it as int in java
+     *     input: -35  output: -53
+
+     */
 
     public static int reverseNegative(int num) {
         // If the number is positive or zero, return it unchanged
