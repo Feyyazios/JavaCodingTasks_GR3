@@ -1,6 +1,13 @@
 package nurten;
 
 public class CharacterFrequency {
+
+    /***
+     *Write a return method that can find the frequency of characters*
+         Ex:frequencyOfChars("AAABBCDD") ==> A3B2C1D2
+     * @param args
+     */
+
     public static void main(String[] args) {
         System.out.println(frequencyOfChars("AAABBCDD")); // Output: A3B2C1D2
     }
