@@ -8,7 +8,8 @@ public class ReverseNegativeNumbers {
 
     public static void main(String[] args) {
 
-        System.out.println(reverseNegativeNumbers(-35)); //output:-53
+        System.out.println(reverseNegativeNumbers(-35));//output:-53
+        System.out.println();
     }
 
 
