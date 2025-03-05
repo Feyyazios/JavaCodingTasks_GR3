@@ -35,6 +35,7 @@ public class frequencyOfCharacters {
         }
 
         return result.toString();
+
     }
 
     public static void main(String[] args) {
